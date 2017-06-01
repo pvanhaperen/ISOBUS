@@ -16,7 +16,6 @@
 #include "Arduino.h"
 
 #include <inttypes.h>
-#include <WProgram.h>
 #include "mcp2515.h"
 
 #define DEFAULT_CAN_ID          0x0555
